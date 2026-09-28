@@ -1,0 +1,5 @@
+// Create a Gender dropdown that shows after losing focus on full name input field [20 points]
+// Create a new input field named Confirm Password that shows after losing focus on the password field [20 points]
+// Validate the Full Name field to not be empty [20 points]
+// Validate the Email field to have correct email entry [20 points]
+// Display in console an object created from all the inputs [20 points]
